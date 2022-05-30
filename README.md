@@ -1,3 +1,9 @@
+# Running on the browser
+  The react app has also been deployed to the github pages. You can check out the website by visitng:
+    https://pokhrelapar.github.io/Anime-Database/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
