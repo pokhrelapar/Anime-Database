@@ -6,8 +6,12 @@
     
 # Sample view
  
- https://drive.google.com/file/d/1C0d_TeAFZnsoeN_RtlQ0Z1kZeKI8LxV3/view?usp=sharing
+
   
+
+https://user-images.githubusercontent.com/37117865/171061171-8420155c-3939-4e3b-a232-aa3ccca323b3.mp4
+
+
 
 
 
