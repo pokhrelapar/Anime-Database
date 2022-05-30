@@ -1,7 +1,15 @@
-# Running on the browser
+# Github pages deployment
   The react app has also been deployed to the github pages. You can check out the website by visitng:
   
     https://pokhrelapar.github.io/Anime-Database/
+    
+    
+# Sample view
+ 
+ https://drive.google.com/file/d/1C0d_TeAFZnsoeN_RtlQ0Z1kZeKI8LxV3/view?usp=sharing
+  
+
+
 
 
 
