@@ -1,5 +1,5 @@
 # Github pages deployment
-  The react app has also been deployed to the github pages. You can check out the website by visitng:
+  The react app has also been deployed to the github pages. You can check it out the website by visitng:
   
     https://pokhrelapar.github.io/Anime-Database/
     
