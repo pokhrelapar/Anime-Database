@@ -34,7 +34,7 @@ function App() {
 
 	// search for an input anime
 	const fetchAnime  = async (searchQuery) => {
-		const tempFetch = await fetch(`https://api.jikan.moe/v3/search/anime?q=${searchQuery}&order_by=title&sort=asc`)
+		const tempFetch = await fetch(`https://api.jikan.moe/v4/search/anime?q=${searchQuery}&order_by=title&sort=asc`)
 								.then(res => res.json());
 
 		console.log("Results");
