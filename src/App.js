@@ -15,7 +15,7 @@ function App() {
 	
 	*/
 	const getTopAnime = async () => {
-		const animeTop = await fetch(`https://api.jikan.moe/v3/top/anime/1/bypopularity`)
+		const animeTop = await fetch(`https://api.jikan.moe/v4/top/anime`)
 						.then(res => res.json());
 						  
 		//get top 15 anime by popularity				
